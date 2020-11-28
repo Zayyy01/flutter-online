@@ -46394,7 +46394,7 @@ N:function(a,b){var s,r,q,p,o,n,m=this,l=null,k=b.a4(t.w).f,j=m.a.c,i=Math.min(1
 i=T.a9g(G.a03(M.kH(l,l,C.l,l,l,l,l,l,l),C.c3,h,i))
 j=j===1?1:0
 h=P.bU(0,500)
-j=G.a03(L.eB("Szoveg1 - beta",A.hm(l,l,C.vQ,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l),l),C.c3,h,j)
+j=G.a03(L.eB("Photoblog - beta",A.hm(l,l,C.vQ,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l),l),C.c3,h,j)
 h=m.d
 s=L.eB("Discover",A.hm(l,l,h[0]?C.U.h(0,200):C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l),l)
 r=T.fh(l,5,l)
@@ -46407,7 +46407,7 @@ s=L.eB("Contact Us",A.hm(l,l,h[1]?C.U.h(0,100):C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,
 o=T.fh(l,5,l)
 n=h[1]
 n=T.a0M(T.pX(H.d([q,r,R.wm(!1,!0,T.nG(H.d([s,o,L.a2u(M.kH(l,l,C.j,l,l,2,l,l,20),!0,!0,!0,n)],p),C.pe),l,!0,l,l,l,l,l,l,l,new X.UN(m),l,new X.UO(),l)],p),C.hF,C.aM))
-s=R.wm(!1,!0,L.eB("Szoveg2 Up",A.hm(l,l,h[2]?C.U.h(0,100):C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l),l),l,!0,l,l,l,l,l,l,l,new X.UP(m),l,new X.UQ(),l)
+s=R.wm(!1,!0,L.eB("Sign Up",A.hm(l,l,h[2]?C.U.h(0,100):C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l),l),l,!0,l,l,l,l,l,l,l,new X.UP(m),l,new X.UQ(),l)
 k=T.fh(l,l,k/50)
 return T.zj(C.io,H.d([i,M.kH(l,new T.h8(new V.bc(20,20,20,20),T.pX(H.d([j,n,s,k,R.wm(!1,!0,L.eB("Login",A.hm(l,l,h[3]?C.U.h(0,100):C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l),l),l,!0,l,l,l,l,l,l,l,new X.UR(m),l,new X.US(),l)],p),C.jL,C.aM),l),C.kV,l,l,l,l,l,l)],p),C.id)}}
 X.UL.prototype={
